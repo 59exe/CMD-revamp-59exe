@@ -15,6 +15,7 @@ echo Username - shows your username.
 echo Chrome - Opens Google Chrome browser
 echo Minecraft - Opens Minecraft Launcher (only works with Java Edition)
 echo Winver - Will show the winver window.
+echo Vbstest - Will test dummy VBScript code.
 timeout /t 100 > NUL
 color 07
 customcmd.bat

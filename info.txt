@@ -1,0 +1,14 @@
+===[INFO]===
+To launch the command prompt, double-click customcmd.bat - it will then run for you.
+Don't x out of the prompt - simply just type 'exit', only use the x button if it has crashed.
+Don't modify any of the code, it has already been written for you.
+You can look through the code, but do not copy it please, use your own.
+You can write your own cmd, with inspiration from mine.
+THIS IS NOT A VIRUS. I TAKE NO PLEASURE IN DESTROYING PEOPLE'S PCs, SO I WILL NOT DO IT.
+I TEST THIS CODE ON REAL HARDWARE.
+
+===[VERSION INFO]===
+Version: v0.0.4
+Codename: "Minecraft Update"
+Beta: N/A
+Coded on: Windows 10 20H1 Update/Windows 10 2004
